@@ -8,7 +8,9 @@
 
 - 💬 Ask me about **Python, Android**
 
-- 📫 How to reach me **gameplay7043@gmail.com**
+<!-- 📫 How to reach me **gameplay7043@gmail.com** 
+here is my email if u view source code :)
+-->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
