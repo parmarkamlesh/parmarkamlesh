@@ -4,9 +4,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=parmarkamlesh" alt="parmarkamlesh" /></a> </p> -->
 
-- 🌱 I’m currently learning **Android, React, python, DSA**
+- 🌱 I’m currently learning **Java, python, DSA and Android**
 
-- 💬 Ask me about **Python, Android**
+- 💬 Ask me about **Python, Java**
 
 <!-- 📫 How to reach me **gameplay7043@gmail.com** 
 here is my email if u view source code :)
