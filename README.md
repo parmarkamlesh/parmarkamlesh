@@ -1,13 +1,13 @@
 <h1 align="center">Hi , I'm Parmar kamlesh</h1>
-<h3 align="center">A passionate Back-end & Android Developer from India</h3>
+<!-- <h3 align="center">A passionate Back-end & Android Developer from India</h3> -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=parmarkamlesh&label=Profile%20views&color=0e75b6&style=flat" alt="parmarkamlesh" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=parmarkamlesh" alt="parmarkamlesh" /></a> </p>
 
-- 🌱 I’m currently learning **Java & DSA**
+<!-- - 🌱 I’m currently learning **Java & DSA** -->
 
-- 💬 Ask me about **Android, Python, Java, DSA**
+<!-- - 💬 Ask me about **Android, Python, Java, DSA** -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
