@@ -4,9 +4,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=parmarkamlesh&label=Profile%20views&color=0e75b6&style=flat" alt="parmarkamlesh" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=parmarkamlesh" alt="parmarkamlesh" /></a> </p>
-
-<!-- - 🌱 I’m currently learning **Java & DSA** -->
-
 <!-- - 💬 Ask me about **Android, Python, Java, DSA** -->
 <h5 align="left">do not follow me. i am lost</h5>
 <h3 align="left">Connect with me:</h3>
